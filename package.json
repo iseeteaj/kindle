@@ -1,7 +1,6 @@
 {
   "name": "kindle",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest"
@@ -18,5 +17,9 @@
   "homepage": "https://github.com/jacgri/kindle#readme",
   "devDependencies": {
     "jest": "^20.0.4"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
 }
