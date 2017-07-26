@@ -1,10 +1,6 @@
 var Chapter = require('../src/Chapter')
-
 var fs = require('fs')
-
 var path = require('path')
-
-path.join('abc', 'easy/as', '123.txt')
 
 describe ('Chapter', function(){
     var chapter

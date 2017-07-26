@@ -1,0 +1,8 @@
+function Library (){
+
+}
+
+Library.prototype = {
+
+    
+}
