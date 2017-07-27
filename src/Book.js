@@ -1,6 +1,5 @@
 var Chapter = require('../src/Chapter')
-var path = require('path')
-var fs = require('fs')
+
 
 function Book(chapters){
     this._chapters = chapters
