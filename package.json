@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacgri/kindle.git"
+    "url": "git+https://github.com/iseeteaj/kindle.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jacgri/kindle/issues"
+    "url": "https://github.com/iseeteaj/kindle/issues"
   },
-  "homepage": "https://github.com/jacgri/kindle#readme",
+  "homepage": "https://github.com/iseeteaj/kindle#readme",
   "devDependencies": {
     "jest": "^20.0.4"
   },
